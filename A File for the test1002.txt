@@ -1,10 +1,7 @@
 Received Message:
 <HEL.R01>
-  <HDR>
-    <HDR.control_id V="810001" />
-    <HDR.version_id V="POCT01" />
-    <HDR.creation_dttm V="2017-11-30T12:31:55-05:00" />
-  </HDR>
+  <TEST LINE FOR THE TEST 1003 steps 3>
+  <Extra LINE ADDED on 2-9-2018>
   <DEV>
     <DEV.device_id V="HemoSonics^Quantra^SimulatorMode" />
     <DEV.serial_id V="SimulatorMode" />
