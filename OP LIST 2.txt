@@ -1,0 +1,45 @@
+<OPL.R02>
+             <HDR>
+             <HDR.control_id V="4"/>
+             <HDR.version_id V="POCT1"/>
+             <HDR.creation_dttm V="2018-01-03T10:26:30-05:00"/>
+             </HDR>
+             <OPR>
+             <OPR.operator_id V="20200"/>
+             <ACC>
+             <ACC.method_cd V="ALL"/>
+             <ACC.password>1211</ACC.password>
+             <ACC.expiration_date V="2020-10-03"/>
+             <ACC.permission_level_cd V="4"/>
+             </ACC>
+             </OPR>
+             <OPR>
+             <OPR.operator_id V="20201"/>
+             <ACC>
+             <ACC.method_cd V="ALL"/>
+             <ACC.password>1212</ACC.password>
+             <ACC.expiration_date V="2020-10-03"/>
+             <ACC.permission_level_cd V="4"/>
+             </ACC>
+             </OPR>
+             <OPR>
+             <OPR.operator_id V="20202"/>
+             <ACC>
+             <ACC.method_cd V="ALL"/>
+             <ACC.password>1213</ACC.password>
+             <ACC.expiration_date V="2020-10-03"/>
+             <ACC.permission_level_cd V="4"/>
+             </ACC>
+             </OPR>
+             <OPR>
+             <OPR.operator_id V="20203"/>
+             <ACC>
+             <ACC.method_cd V="ALL"/>
+             <ACC.password>1214</ACC.password>
+             <ACC.expiration_date V="2020-10-03"/>
+             <ACC.permission_level_cd V="4"/>
+             </ACC>
+             </OPR>
+             <OPR>
+             <OPR.operator_id V="20204"/>
+<OPL.R02>
